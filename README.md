@@ -90,7 +90,7 @@ Why this helps: Landslides are spatially clustered — a high-risk site increase
 
 ---
 
-## Caveats and tips / Consejos
+## Caveats and tips
 
 - The notebook uses interpolation (cubic) and KD-tree nearest-neighbors. With large point counts this can be memory and CPU heavy. Consider using coarser resolution settings or subsampling if you run into performance issues.
 - The DEM used in the notebook is a SRTM/ASTER tile. Check its CRS before reprojecting. The script assumes EPSG:4326 input for the DEM extraction step.
@@ -98,7 +98,7 @@ Why this helps: Landslides are spatially clustered — a high-risk site increase
 
 ---
 
-## Drive link / Enlace al Drive
+## Drive link
 
 The raw data files were shared separately via Google Drive. Please use the link provided in the project communications to download the following files and place them in `data/`:
 
