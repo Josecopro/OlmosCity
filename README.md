@@ -107,8 +107,6 @@ The raw data files were shared separately via Google Drive. Please use the link 
 - Inventario_de_movimientos_en_masa_6829763638631547229.csv
 - Colombia+Antioquia_Monthly.csv
 
-(If you need the Drive link added to this README, paste it here and I will update the file.)
-
 Google Drive link:
 
 https://drive.google.com/drive/folders/1BuFpElD_WimLSMITAxGwoxkzQtrzC4hx?usp=sharing
